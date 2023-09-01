@@ -8,5 +8,6 @@ The following image explains the pipeline. Added for reading purposes if the ima
 
 The confusion matix on 20%Real data(RD) - 80% Virtual data(VD) follows as below
 ![20_80_CM](images/20RD_80VR_output.png)
-To-Do
+
+##To-Do
 1. Add the train graphs and CM images of all combinations of data.
